@@ -1,5 +1,4 @@
 package employee_management;
-
 /**
  * TODO : a department is a collection of employees. It has a name and a set of employees in it.
  */
